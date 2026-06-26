@@ -1,0 +1,16 @@
+title: addontemplate-hosted-mode
+authors:
+  - "@mikeshng"
+reviewers:
+  - "@qiujian16"
+  - "@kahirokunn"
+  - "@tesshuflower"
+approvers:
+  - "@qiujian16"
+creation-date: 2026-06-26
+last-updated: 2026-06-26
+status: provisional
+see-also:
+  - "/enhancements/sig-architecture/63-hosted-addon"
+  - "/enhancements/sig-architecture/82-addon-template"
+  - "/enhancements/sig-architecture/81-addon-lifecycle"
