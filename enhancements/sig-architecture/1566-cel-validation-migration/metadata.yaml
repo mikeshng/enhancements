@@ -1,0 +1,12 @@
+title: Replacing Validating Webhooks with CEL Validation and ValidatingAdmissionPolicy
+authors:
+  - "@Vaishnav88sk"
+reviewers:
+  - "@qiujian16"
+approvers:
+  - "@qiujian16"
+creation-date: 2026-06-15
+last-updated: 2026-06-15
+status: provisional
+see-also:
+  - "https://github.com/open-cluster-management-io/ocm/issues/1566"
